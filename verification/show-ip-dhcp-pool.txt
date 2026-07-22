@@ -1,0 +1,37 @@
+Router#show ip dhcp pool
+
+Pool Admin-pool :
+ Utilization mark (high/low)    : 100 / 0
+ Subnet size (first/next)       : 0 / 0 
+ Total addresses                : 62
+ Leased addresses               : 3
+ Excluded addresses             : 3
+ Pending event                  : none
+
+ 1 subnet is currently in the pool
+ Current index        IP address range                    Leased/Excluded/Total
+ 192.168.1.1          192.168.1.1      - 192.168.1.62      3    / 3     / 62
+
+Pool Finance-pool :
+ Utilization mark (high/low)    : 100 / 0
+ Subnet size (first/next)       : 0 / 0 
+ Total addresses                : 62
+ Leased addresses               : 3
+ Excluded addresses             : 3
+ Pending event                  : none
+
+ 1 subnet is currently in the pool
+ Current index        IP address range                    Leased/Excluded/Total
+ 192.168.1.65         192.168.1.65     - 192.168.1.126     3    / 3     / 62
+
+Pool CS-pool :
+ Utilization mark (high/low)    : 100 / 0
+ Subnet size (first/next)       : 0 / 0 
+ Total addresses                : 62
+ Leased addresses               : 3
+ Excluded addresses             : 3
+ Pending event                  : none
+
+ 1 subnet is currently in the pool
+ Current index        IP address range                    Leased/Excluded/Total
+ 192.168.1.129        192.168.1.129    - 192.168.1.190     3    / 3     / 62
