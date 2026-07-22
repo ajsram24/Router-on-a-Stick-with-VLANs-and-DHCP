@@ -116,11 +116,3 @@ show ip dhcp binding
 show cdp neighbors detail
 show mac address-table
 ```
-
-## 🚀 Future Improvements
-
-- Add DNS server.
-- Configure NAT for Internet access.
-- Implement ACLs between VLANs.
-- Add Port Security.
-- Configure SSH for secure device management.
