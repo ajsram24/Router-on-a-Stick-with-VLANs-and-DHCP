@@ -1,0 +1,12 @@
+Router#show ip dhcp binding
+IP address       Client-ID/              Lease expiration        Type
+                 Hardware address
+192.168.1.4      000A.4174.82C8           --                     Automatic
+192.168.1.3      0030.F218.0BC0           --                     Automatic
+192.168.1.2      000C.CF07.0C05           --                     Automatic
+192.168.1.68     0002.4A77.5A50           --                     Automatic
+192.168.1.66     00D0.BA4A.6ECC           --                     Automatic
+192.168.1.67     0001.431B.460D           --                     Automatic
+192.168.1.130    0001.64A0.97B3           --                     Automatic
+192.168.1.132    0050.0FB1.CEB6           --                     Automatic
+192.168.1.131    00D0.BC6B.0D3A           --                     Automatic
